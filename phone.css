@@ -1,0 +1,73 @@
+nav
+{
+	flex-direction: column;
+}
+
+nav li a
+{
+	padding: 3px 12px;
+}
+
+#home::before
+{
+	height: 700px;
+}
+
+#home
+{
+	padding: 3px 10px;
+}
+
+.primary
+{
+	font-size: 3rem;
+}
+
+.secondary
+{
+	font-size: 1.7rem;	
+}
+
+#services .box img
+{
+	height: 150px;
+}
+
+
+#client-section
+{
+	position: relative;
+	height: 100%;
+}
+
+#clients
+{
+	flex-direction: column;
+}
+
+.client-item
+{
+	padding: 10px;	
+}
+
+#client-section::before
+{
+	opacity: 0.25;
+}
+
+.client-item img
+{
+	height: 200px;
+}
+
+
+
+#contact
+{
+
+}
+
+#footer
+{
+
+}
